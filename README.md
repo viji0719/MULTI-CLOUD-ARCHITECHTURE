@@ -59,6 +59,16 @@ Scalability & Flexibility: Each layer can be scaled or replaced independently de
 This project successfully demonstrates how different cloud providers can work together seamlessly to build modern web applications. The multi-cloud setup ensures cost-efficiency, high availability, and reduced risk while encouraging flexibility in cloud adoption strategies. Using AWS S3 for frontend hosting and Render for backend APIs offers a perfect beginner-friendly yet powerful example of multi-cloud architecture in action.
 
 **OUTPUT**
-
+![Image](https://github.com/user-attachments/assets/7f6b0f7c-5714-4173-8b1c-7bc09473bf11)
+![Image](https://github.com/user-attachments/assets/13d3cf3d-a4f8-42e8-b396-41986c89d25d)
+![Image](https://github.com/user-attachments/assets/9c40a5dc-b6b4-4af2-a97e-ec0d90fd466b)
+![Image](https://github.com/user-attachments/assets/b9635b71-6eaa-45b6-ae87-b7200d244c70)
+![Image](https://github.com/user-attachments/assets/f1ac1e42-9a71-4578-bc66-9c9b94ba9488)
+![Image](https://github.com/user-attachments/assets/baff19c9-43c7-48e4-bf51-db90ac18f697)
+![Image](https://github.com/user-attachments/assets/e1d24a9d-cfb9-4443-8d28-2553bb008b41)
+![Image](https://github.com/user-attachments/assets/8a6e648d-3bad-4e08-a577-ea40af8a37bd)
+![Image](https://github.com/user-attachments/assets/fc5156cb-d3da-49f2-ac9d-c15fb6b98e6d)
+![Image](https://github.com/user-attachments/assets/653e1c58-b42c-42fd-bda8-a8a3a3b04ab7)
+![Image](https://github.com/user-attachments/assets/ff099874-2ecd-4cfc-8415-fb277437831a)
 
 
