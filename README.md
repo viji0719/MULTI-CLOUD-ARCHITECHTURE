@@ -60,4 +60,24 @@ This project successfully demonstrates how different cloud providers can work to
 
 **OUTPUT**
 
+![Image](https://github.com/user-attachments/assets/710a84ea-52cc-4410-abfc-473f77eb3417)
 
+![Image](https://github.com/user-attachments/assets/436ec4b7-a62e-46d1-8934-d54b22a939ee)
+
+![Image](https://github.com/user-attachments/assets/c66b1dca-23da-47eb-971f-7bd4424019b2)
+
+![Image](https://github.com/user-attachments/assets/b2d4076a-84e9-4fe4-9389-334a3c44bc2a)
+
+![Image](https://github.com/user-attachments/assets/5688ab20-0685-41db-bf16-d4e1fc26e3ae)
+
+![Image](https://github.com/user-attachments/assets/9d2b610a-98ba-4ca5-aecd-e79a90c3a193)
+
+![Image](https://github.com/user-attachments/assets/a1f700b1-312e-4022-83eb-d4b1e140fedf)
+
+![Image](https://github.com/user-attachments/assets/bc9de0d0-1f2b-4608-9023-04282bc47540)
+
+![Image](https://github.com/user-attachments/assets/9db6711c-e233-4a56-acbf-1c86167f8cb4)
+
+![Image](https://github.com/user-attachments/assets/d806f0f3-fbeb-43f5-890d-8f4e79e3a142)
+
+![Image](https://github.com/user-attachments/assets/c0ec78eb-f296-438c-becd-60a867283bab)
