@@ -76,8 +76,6 @@ This project successfully demonstrates how different cloud providers can work to
 
 ![Image](https://github.com/user-attachments/assets/5f3b4fad-c1b3-4aae-9fae-fcd55093ddce)
 
-![Image](https://github.com/user-attachments/assets/9db6711c-e233-4a56-acbf-1c86167f8cb4)
-
 ![Image](https://github.com/user-attachments/assets/d806f0f3-fbeb-43f5-890d-8f4e79e3a142)
 
 ![Image](https://github.com/user-attachments/assets/c0ec78eb-f296-438c-becd-60a867283bab)
